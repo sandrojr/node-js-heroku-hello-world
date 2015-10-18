@@ -1,5 +1,5 @@
 {
-  "name": "Node.js Getting Started",
+  "name": "node-js-heroku-hello-world",
   "description": "A barebones Node.js app using Express 4",
   "repository": "https://github.com/sandrojr/node-js-heroku-hello-world",
   "logo": "http://node-js-sample.herokuapp.com/node.svg",
