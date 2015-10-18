@@ -1,4 +1,4 @@
-# node-js-getting-started
+# node-js-heroku-hello-world
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
@@ -12,7 +12,7 @@ Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https
 
 ```sh
 $ git clone git@heroku.com:node-js-heroku-hello-world.git # or clone your own fork
-$ cd node-js-getting-started
+$ cd node-js-heroku-hello-world
 $ npm install
 $ npm start
 ```
